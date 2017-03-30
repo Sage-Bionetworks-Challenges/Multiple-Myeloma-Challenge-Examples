@@ -1,2 +1,2 @@
 #!/bin/bash
-./age-model.py
+python /age-model.py
